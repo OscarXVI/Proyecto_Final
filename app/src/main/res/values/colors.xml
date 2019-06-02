@@ -3,7 +3,7 @@
     //Colores primarios
     <color name="colorPrimary">#b50700</color>
     <color name="colorPrimaryDark">#7e0000</color>
-    <color name="PLi">#ef4c2d</color>
+    <color name="colorAccent">#ef4c2d</color>
     //Colores secundarios
     <color name="Secundary">#840000</color>
     <color name="Sdark">#520000</color>
