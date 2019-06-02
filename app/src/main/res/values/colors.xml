@@ -12,6 +12,8 @@
     <color name="texto">#ffffff</color>
     <color name="textoS">#ffffff</color>
 
+    <color name="white">#ffffff</color>
+
     <color name="dot_light_screen1">#f930</color>
     <color name="dot_light_screen2">#93b</color>
     <color name="dot_light_screen3">#000009</color>
