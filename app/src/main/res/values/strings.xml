@@ -18,7 +18,7 @@
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
     <string name="hint_name">Nombre completo</string>
-    <string name="btn_login">LOGIN</string>
+    <string name="btn_login">Ingresar</string>
     <string name="btn_link_to_register">No eres miembro? Registrese en Firebase!</string>
     <string name="btn_link_to_login">Ya registrado. Iniciar sesión!</string>
     <string name="title_activity_reset_password">ResetPasswordActivity</string>
