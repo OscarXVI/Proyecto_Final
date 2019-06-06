@@ -38,4 +38,5 @@ public class ProgressBarAnimation extends Animation {
             context.startActivity(new Intent(context, LoginActivity.class));
         }
     }
+
 }
