@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             Toast.makeText(getApplicationContext(), "No se pudo conectar, verifique" +
                     "el acceso a internet nuevamente para ingresar a la aplicación", Toast.LENGTH_LONG).show();
+            Intent intent= new Intent(this,listas.class);
 
         }
 
