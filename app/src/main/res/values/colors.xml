@@ -39,4 +39,13 @@
 
     </array>
     <color name="nose">#fff889</color>
+
+
+    <!-- Colores notas -->
+    <color name="msg_no_notes">#999</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="note_list_text">#FFFFFF</color>
+
+
 </resources>
