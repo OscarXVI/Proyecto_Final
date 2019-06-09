@@ -46,6 +46,6 @@
     <color name="hint_enter_note">#89c3c3c3</color>
     <color name="timestamp">#858585</color>
     <color name="note_list_text">#FFFFFF</color>
-
+    <color name="note_list_texdt">#FF000F</color>
 
 </resources>
