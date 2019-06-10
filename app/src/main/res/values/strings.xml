@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Recetumapp</string>
+    <string name="app_name">Proyecto</string>
     <string name="title_activity_welcome">Pantalla de Inicio</string>
     <string name="next">Siguiente</string>
     <string name="start">Iniciar</string>
@@ -54,5 +54,9 @@
     <string name="lbl_new_note_title">New Note</string>
     <string name="lbl_edit_note_title">Edit Note</string>
     <string name="hint_enter_note">Enter your note!</string>
+
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name...</string>
 
 </resources>

@@ -12,13 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".comidas"></activity>
-        <activity android:name=".listas" />
-        <activity android:name=".Main" />
+        <activity android:name=".menu"></activity>
         <activity android:name=".ResetPasswordActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".SingupActivity" />
-        <activity android:name=".WelcomeActivity" />
         <activity android:name=".ProgressBarAnimation" />
         <activity android:name=".MainActivity">
             <intent-filter>
